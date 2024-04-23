@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Silvanus</h1>
-<h3 align="center">I'm a passionate front-end developer based in Kenya, with a keen interest in crafting delightful user experiences through clean and efficient code. With a background in Information Technology and a love for design, I strive to bridge the gap between functionality and aesthetics in every project I undertake.</h3>
+<h3 align="center">I'm a passionate front-end developer based in Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smachoka&label=Profile%20views&color=0e75b6&style=flat" alt="smachoka" /> </p>
 
